@@ -10,7 +10,7 @@
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox.json",
-			"name": "自用"
+			"name": "自用2"
 		},
 		{
 			"url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/xuexi.json",
