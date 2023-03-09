@@ -1,15 +1,15 @@
 {
 	"storeHouse": [
 		{
-			"sourceName": "自用本地",
+			"sourceName": "本地写法",
 			"sourceUrl": "clan://localhost/urls101.txt"
 		},
 		{
-			"sourceName": "自用网络",
+			"sourceName": "柠檬仓",
 			"sourceUrl": "./urls101.txt"
 		},
 		{
-			"sourceName": "柠檬仓",
+			"sourceName": "柠檬仓1",
 			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls101.txt"
 		},
 		{
