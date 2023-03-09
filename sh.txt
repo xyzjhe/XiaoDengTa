@@ -11,7 +11,7 @@
 		{
 			"sourceName": "柠檬仓",
 			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls101.txt"
-		}
+		},
 		{
 			"sourceName": "柠檬仓2",
 			"sourceUrl": "https://gitlab.com/jack2583/tvboxx/-/raw/main/DuoXian/DuoXian.json"
