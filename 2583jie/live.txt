@@ -157,6 +157,10 @@ CCTV-14少儿[高清］,http://222.79.112.157/live.aishang.ctlcdn.com/0000011024
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 港澳台综合,#genre#
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://51.195.221.35/ukstv.php?id=b8ce1f1e
+翡翠台,http://r.jdshipin.com/62WM7
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -181,7 +185,6 @@ CCTV-14少儿[高清］,http://222.79.112.157/live.aishang.ctlcdn.com/0000011024
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
