@@ -9,7 +9,7 @@
 本地配置地址：
 
 TVBox用
-clan://localhost/tvboxhh/0228xyq/tvbox.json
+clan://localhost/tvbox/2583jie/tvbox.json
 
 频道：https://t.me/TVBox_local
 local by xhh 
