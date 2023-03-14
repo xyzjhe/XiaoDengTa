@@ -9,8 +9,8 @@
 			"name": "自用"
 		},
 		{
-			"url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/xuexi.json",
-			"name": "学习"
+			"url": https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"",
+			"name": "yoursmile"
 		},
 		{
 			"url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/v.json",
