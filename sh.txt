@@ -6,15 +6,15 @@
 		},
 		{
 			"sourceName": "柠檬少儿教育仓",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls101.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls102.txt"
 		},
 		{
 			"sourceName": "柠檬老年仓",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls101.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls103.txt"
 		},
 		{
 			"sourceName": "柠檬收集大佬仓",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls101.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls104.txt"
 		}
 	]
 }

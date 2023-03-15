@@ -1,0 +1,8 @@
+{
+	"urls": [
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox_ln.json",
+			"name": "柠檬自用老年"
+		}
+	]
+}
