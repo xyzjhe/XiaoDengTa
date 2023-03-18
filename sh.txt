@@ -15,6 +15,11 @@
 		{
 			"sourceName": "柠檬收集网络仓",
 			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls104.txt"
-		}
-	]
+		},
+		{"sourceName": "⭐影视仓库1⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc1"},
+		{"sourceName": "⭐影视仓库2⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc2"},
+		{"sourceName": "⭐影视仓库3⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc3"},
+		{"sourceName": "⭐影视仓库4⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc4"},
+		{"sourceName": "⭐影视仓库5⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc5"}
+		]
 }
