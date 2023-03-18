@@ -21,8 +21,8 @@
 					"name": "live",
 					"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 
-					//"urls": ["proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"]
-					"urls": ["proxy://do=live&type=txt&ext=./live.txt"]
+					"urls": ["proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"]
+					//"urls": ["proxy://do=live&type=txt&ext=./live.txt"]
 					
 					//"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]
 					//"urls": ["proxy://do=live&type=txt&ext=http://dlq.gmqd.com/upload/20220921115985878587.txt"]
@@ -43,11 +43,12 @@
 		//{"key":"小灯塔地理","name":"💡小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小灯塔地理.json"},
 		//{"key":"小灯塔国学","name":"💡小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小灯塔国学.json"},
 		//{"key":"小灯塔人文","name":"💡小灯塔人文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小灯塔人文.json"},
-		{"key":"py_cctv","name":"🌏央视节目","type":3,"api":"py_cctv","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Py/py_cctv.py"},
-		{"key":"益智动画","name":"🦖益智动画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/益智动画.json"},
-		{"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学语文.json"},
-		{"key":"小学数学","name":"📐小学数学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学数学.json"},
-		{"key":"小学英语","name":"🔤小学英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学英语.json"},
+		//{"key":"py_cctv","name":"🌏央视节目","type":3,"api":"py_cctv","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Py/py_cctv.py"},
+		{"key":"央视经典","name":"央视经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/央视经典.json"},
+		//{"key":"益智动画","name":"🦖益智动画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/益智动画.json"},
+		//{"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学语文.json"},
+		//{"key":"小学数学","name":"📐小学数学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学数学.json"},
+		//{"key":"小学英语","name":"🔤小学英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学英语.json"},
 		{"key":"小学教育","name":"小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学教育.json"},
 		{"key":"初中教育","name":"初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/初中教育.json"},
 		{"key":"高中教育","name":"高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/高中教育.json"},
