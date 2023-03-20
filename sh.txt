@@ -18,8 +18,8 @@
 		},
 		{
             "sourceName": "本地仓库",
-            "sourceUrl": "clan://localhost/tvbox/sh.txt"
-        }
+            "sourceUrl": "clan://localhost/tvbox/2583jie/sh.txt"
+        },
 		{"sourceName": "⭐影视仓库1⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc1"},
 		{"sourceName": "⭐影视仓库2⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc2"},
 		{"sourceName": "⭐影视仓库3⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc3"},
