@@ -1,0 +1,110 @@
+电视盒子root_电视盒子 免root 去广告换桌面
+
+我们输入adb connect 192.168.31.153
+此时屏幕上会弹出一个提示框“允许USB调试吗？”，选择“确定”，就表示连接成功了。
+在“Adb命令行”里输入以下内容并点击键盘上的“Enter”键，盒子桌面会瞬间变成 “当贝桌面”，
+并且以后每次开机也是当贝桌面：
+
+adb shell pm uninstall --user 0 com.mitv.tvhome
+
+
+再接再厉去除盒子的开机广告
+
+adb shell pm uninstall --user 0 mitv.service
+
+为了避免日后更新被还原桌面，可以把系统更新删掉(喜欢升级官方ROM的朋友请慎重)
+
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.upgrade
+
+另外还有一些个人觉得臃肿没卵用的内置app，
+一并删了：
+
+应用商店
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.appstore
+
+
+米家
+
+adb shell pm uninstall --user 0 com.xiaomi.smarthome.tv
+
+
+小米商城
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.shop
+
+
+小米支付
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.payment
+
+
+小米钱包
+
+adb shell pm uninstall --user 0 com.mipay.wallet.tv
+
+
+游戏中心
+
+adb shell pm uninstall --user 0 com.xiaomi.mibox.gamecenter
+
+
+小米盒子设置
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.settings
+
+
+为了避免日后更新被还原桌面，可以把系统更新删掉(喜欢升级官方ROM的朋友请慎重)
+
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.upgrade
+
+另外还有一些个人觉得臃肿没卵用的内置app，
+一并删了：
+
+应用商店
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.appstore
+
+
+米家
+
+adb shell pm uninstall --user 0 com.xiaomi.smarthome.tv
+
+
+小米商城
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.shop
+
+
+小米支付
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.payment
+
+
+小米钱包
+
+adb shell pm uninstall --user 0 com.mipay.wallet.tv
+
+
+游戏中心
+
+adb shell pm uninstall --user 0 com.xiaomi.mibox.gamecenter
+
+
+小米盒子设置
+
+adb shell pm uninstall --user 0 com.xiaomi.mitv.settings
+
+
+要是你还没有满足，还想删除其他软件，可继续在“Adb命令行”里输入
+
+
+adb shell pm list packages
+
+即可查看到盒子已安装的全部app的文件名称，
+按照“adb shell pm uninstall --user 0 需要删除的软件的文件名称”的格式自行删除。
+
+
+以上步骤完成后，盒子就成了一个纯粹的播放盒子，重启后无须等待开机广告，直接进入当贝桌面，清爽流畅，完美！
