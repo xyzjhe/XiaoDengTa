@@ -1,9 +1,12 @@
 {
 	"urls": [
-
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox_se.json",
 			"name": "柠檬少儿教育"
+		},
+		{
+			"url": "clan://localhost/tvbox/2583jie/tvbox_se.json",
+			"name": "柠檬少儿教育本地"
 		}
 	]
 }

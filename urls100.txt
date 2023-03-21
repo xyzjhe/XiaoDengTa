@@ -2,22 +2,31 @@
 	"urls": [
 		{
 			"url": "clan://localhost/tvbox/2583jie/tvbox.json",
-			"name": "本地"
+			"name": "柠檬主线路本地"
 		},
 		{
-            "url": "clan://localhost/tvbox/XYQTVBox/XYQTVBox.json",
-            "name": "香雅情线路(海阔推送)",
-            "time": "2023-03-09"
-        },
-        {
-            "url": "clan://localhost/tvbox/XYQTVBox/drpy_js/drjs_config.json",
-            "name": "道长JS线路(本地)",
-            "time": "2023-03-09"
-        },
-        {
-            "url": "clan://localhost/tvbox/XYQTVBox/FongMi/config.json",
-            "name": "FongMi本地(阿里系)",
-            "time": "2023-03-09"
-        }
+			"url": "clan://localhost/tvbox/2583jie/tvbox_se.json",
+			"name": "柠檬少儿教育本地"
+		},
+		{
+			"url": "clan://localhost/tvbox/2583jie/tvbox_ln.json",
+			"name": "柠檬老年人仓本地"
+		},
+		{
+			"url": "clan://localhost/tvbox/XYQTVBox/XYQTVBox.json",
+			"name": "香雅情线路(海阔推送)本地"
+		},
+		{
+			"url": "clan://localhost/tvbox/XYQTVBox/drpy_js/drjs_config.json",
+			"name": "道长JS线路(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/XYQTVBox/FongMi/config.json",
+			"name": "FongMi本地(阿里系)本地"
+		},
+		{
+			"url": "clan://localhost/tvbox/fantaiying/api.json",
+			"name": "饭太硬本地"
+		}
 	]
 }

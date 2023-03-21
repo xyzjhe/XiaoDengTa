@@ -2,7 +2,35 @@
 	"urls": [
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox.json",
-			"name": "自用"
+			"name": "柠檬主线路"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox_se.json",
+			"name": "柠檬少儿教育"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox_ln.json",
+			"name": "柠檬老年人仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/XYQTVBox.json",
+			"name": "香雅情线路(海阔推送)",
+			"time": "2023-03-20"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/drpy_js/drjs_config.json",
+			"name": "道长JS线路",
+			"time": "2023-03-09"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/FongMi/config.json",
+			"name": "FongMi(阿里系)",
+			"time": "2023-03-09"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/api.json",
+			"name": "饭太硬",
+			"time": "2023-03-20"
 		},
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
