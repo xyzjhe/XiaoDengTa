@@ -1,6 +1,7 @@
 ﻿{
 	"classes": [
-				{"type_name": "🕺广场舞","type_id": "广场舞健身操"},
+		{"type_name": "🕺广场舞","type_id": "广场舞健身操"},
+		{"type_name": "🕺广播体操","type_id": "再来亿遍！第八套广播体操，最好的全身运动"},
 		{"type_name": "☯️太极拳","type_id": "太极拳"},
 		{"type_name": "五子棋","type_id": "五子棋"},
 		{"type_name": "象棋","type_id": "象棋"},
