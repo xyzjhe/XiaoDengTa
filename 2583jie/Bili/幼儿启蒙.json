@@ -11,9 +11,11 @@
 		{"type_name":"少儿编程","type_id":"少儿编程"},
 		{"type_name":"古诗","type_id":"古诗"},
 		{"type_name":"声律启蒙","type_id":"声律启蒙"},
+		{"type_name":"笠翁对韵","type_id":"笠翁对韵"},
 		{"type_name":"三字经","type_id":"三字经"},
 		{"type_name":"弟子规","type_id":"弟子规"},
-		{"type_name":"百家姓","type_id":"百家姓"}],
+		{"type_name":"百家姓","type_id":"百家姓"},
+		{"type_name":"儿童性教育","type_id":"给孩子的第一堂性教育课"}],
 	
 	"filter":{
 		"幼儿英语":[

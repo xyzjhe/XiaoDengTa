@@ -2,10 +2,11 @@
 	"classes":[
 		{"type_name":"拼音启蒙","type_id":"幼儿拼音全套学习课程"},
 		{"type_name":"识字启蒙","type_id":"识字启蒙"},
+		{"type_name":"英语启蒙","type_id":"英语启蒙"},
+		{"type_name":"英语音标","type_id":"幼儿音标教学"},
 		{"type_name":"少儿书法","type_id":"写字启蒙教程"},
 		{"type_name":"少儿口才","type_id":"少儿口才第一课"},
 		{"type_name":"数学启蒙","type_id":"数学启蒙"},
-		{"type_name":"英语启蒙","type_id":"英语启蒙"},
 		{"type_name":"思维课程","type_id":"少儿思维"},
 		{"type_name":"看图说话","type_id":"看图说话"}
 		],
