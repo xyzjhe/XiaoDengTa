@@ -2,7 +2,7 @@
 	//壁纸链接，自动替换
 	"wallpaper": "https://www.dmoe.cc/random.php",
 	//通用jar包
-	"spider": "./custom_spider_se.jar;md5;0580a958620d930a381f592c3260d9f2",
+	"spider": "./custom_spider_se.jar",
 	"lives": [
 		{
 		"name": "柠檬直播",
