@@ -64,20 +64,22 @@
 		{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ali/token.txt"},
 		{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ali/token.txt"},
 		
-		{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-		{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-		{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-		{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+		{"key":"drpy_js_腾云驾雾","name":"🐧┃ 腾讯┃[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+		{"key":"drpy_js_奇珍异兽","name":"🥝┃ 爱奇艺┃[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+		{"key":"drpy_js_优酷","name":"官源 ┃ 优酷┃[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+		{"key":"drpy_js_百忙无果","name":"🍋 ┃ 芒果┃[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 		
-		{"key": "csp_SP33","name": "📺三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
-		{"key": "Qtv","name": "🐧腾腾┃解析","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
-		{"key": "Itv","name": "🥝爱爱┃解析","type": 3,"api": "csp_Itv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
-		{"key": "Mtv","name": "🍋芒芒┃解析","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
-		
-		{"key": "drpy_js_奇珍异兽2","name": "🐨┃爱奇┃官源","type": 3,"api": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/js/爱奇.js","jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
-		{"key": "teng","name": "🐧┃企鹅┃官源","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
+		{"key": "teng","name": "🐧┃腾讯┃2","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
+		{"key": "drpy_js_奇珍异兽2","name": "🥝┃爱奇艺┃2","type": 3,"api": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/js/爱奇.js","jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
+
 		{"key": "csp_SP360","name": "📺┃360┃官源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/json/360影视.json","jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
-		{"key": "MGT","name": "🍋┃芒果┃官源","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
+		{"key": "MGT","name": "🍋┃芒果┃2","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/feimao/spider.jar"},
+		
+		
+		{"key": "Qtv","name": "🐧┃腾讯┃3","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
+		{"key": "Itv","name": "🥝┃爱奇艺┃3","type": 3,"api": "csp_Itv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
+		{"key": "Mtv","name": "🍋┃芒芒┃3","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
+		{"key": "csp_SP33","name": "📺┃三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/spider.jar"},
 
 		{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 		{"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
