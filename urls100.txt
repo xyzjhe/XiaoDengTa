@@ -27,6 +27,10 @@
 		{
 			"url": "clan://localhost/tvbox/fantaiying/api.json",
 			"name": "饭太硬本地"
+		},
+		{
+			"url": "clan://localhost/tvbox/feimao/api.json",
+			"name": "肥猫本地"
 		}
 	]
 }

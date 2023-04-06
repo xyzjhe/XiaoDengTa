@@ -30,7 +30,10 @@
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/api.json",
 			"name": "饭太硬",
-			"time": "2023-03-20"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/api.json",
+			"name": "肥猫",
 		},
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
