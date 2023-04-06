@@ -1,7 +1,7 @@
 {
     "spider": "./custom_spider.jar",
     "rulefrom": "规则来自道长仓库 https://gitcode.net/qq_32394351/dr_py",
-    "rulepack": "香雅情整理打包(2023-03-29 11:33:15)",
+    "rulepack": "香雅情整理打包(2023-04-05 19:10:32)",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -18,6 +18,16 @@
             "ext": "./js/alist.conf"
         },
         {
+            "key": "AList",
+            "name": "AList[SP]",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "./js/alist.json"
+        },
+        {
             "key": "小纸条",
             "name": "小纸条",
             "type": 3,
@@ -25,7 +35,7 @@
             "searchable": 1,
             "filterable": 1,
             "switchable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "易搜",
@@ -35,7 +45,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "盘搜",
@@ -45,7 +55,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "UP云搜",
@@ -55,7 +65,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "找资源",
@@ -65,7 +75,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
         },
         {
             "key": "push_agent",
@@ -75,7 +85,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "drpy_js_奇珍异兽",
