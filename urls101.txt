@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox.bmp",
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox.json",
 			"name": "柠檬主线路"
 		},
 		{
