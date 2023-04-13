@@ -39,6 +39,22 @@
 		{
 			"sourceName": "⭐柠檬备用仓库5⭐",
 			"sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc5"
+		},
+		{
+			"sourceName": "日后服务器",
+			"sourceUrl": "http://rihou.cc/日后多仓/3.php"
+		},
+		{
+			"sourceName": "日后网络收集仓",
+			"sourceUrl": "http://rihou.cc/日后多仓/2.php"
+		},
+		{
+			"sourceName": "日后备用服务器",
+			"sourceUrl": "http://rihou.cc/日后多仓/0.php"
+		},
+		{
+			"sourceName": "日后本地仓",
+			"sourceUrl": "http://rihou.cc/日后多仓/1.php"
 		}
 	]
 }
