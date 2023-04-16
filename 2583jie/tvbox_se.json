@@ -54,6 +54,7 @@
 		{"key":"儿童口才","name":"儿童口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/儿童口才.json"},
 		{"key":"儿童性教育","name":"儿童性教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/儿童性教育.json"},
 		{"key":"儿童编程","name":"儿童编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/儿童编程.json"},
+		{"key":"儿童武术","name":"儿童武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/儿童武术.json"},
 		
 		{"key":"兴趣培养","name":"🖼︎兴趣培养","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/兴趣培养.json"},
 		//{"key":"py_cctv","name":"🌏央视节目","type":3,"api":"py_cctv","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Py/py_cctv.py"},

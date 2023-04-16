@@ -23,11 +23,6 @@
 			"time": "2023-03-09"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/FongMi/config.json",
-			"name": "FongMi(阿里系)",
-			"time": "2023-03-09"
-		},
-		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/api.json",
 			"name": "饭太硬"
 		},

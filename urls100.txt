@@ -21,10 +21,6 @@
 			"name": "道长JS线路(本地)"
 		},
 		{
-			"url": "clan://localhost/tvbox/XYQTVBox/FongMi/config.json",
-			"name": "FongMi本地(阿里系)本地"
-		},
-		{
 			"url": "clan://localhost/tvbox/fantaiying/api.json",
 			"name": "饭太硬本地"
 		},
