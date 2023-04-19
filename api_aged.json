@@ -44,7 +44,7 @@
 		{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
 		
 		{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
+		{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"}
 		
 		
 		],
