@@ -32,7 +32,7 @@
 		}
 	],
 	"sites":[
-		{"key": "drpy_js_豆瓣","name": "豆瓣[js]","type": 3,"api": "./XYQTVBoxdrpy_js/libs/drpy2.min.js","ext": "./XYQTVBox/drpy_js/js/drpy.js"},
+		{"key": "drpy_js_豆瓣","name": "豆瓣[js]","type": 3,"api": "./XYQTVBox/drpy_js/libs/drpy2.min.js","ext": "./XYQTVBox/drpy_js/js/drpy.js"},
 		//    searchable:0,//是否启用全局搜索,    quickSearch:0,//是否启用快速搜索,    filterable:0,//是否启用筛选,
 		{"key":"小灯塔","name":"💡小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/小灯塔百科.json"},
 		{"key":"csp_hiker_兔小贝","name":"兔小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/hiker/兔小贝.json"},
