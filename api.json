@@ -38,13 +38,13 @@
 		{"key":"ningmeng_aqy","name":"🥝爱奇艺[js]","type":3,"api":"./ningmeng/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/爱奇艺.js"},
 		{"key":"ningmeng_yk","name":"👑优酷[js]","type":3,"api":"./ningmeng/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/优酷视频.js"},
 		{"key":"ningmeng_tx","name":"🐧腾讯[js]","type":3,"api":"./ningmeng/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/腾讯视频.js"},
-		{"key":"ningmeng_sg","name":"🐼搜狗(官)","type":3,"api":"./ningmeng/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/搜狗.js"},
+		{"key":"ningmeng_sg","name":"🐼搜狗[js]","type":3,"api":"./ningmeng/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/搜狗.js"},
 		{"key":"ningmeng_bili","name":"🧑🏻‍bilibili影视[js]","type":3,"api":"./ningmeng/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/bilibili影视.js"},
 		{"key":"ningmeng_mg","name":"🥭芒果[js]","type":3,"api":"./ningmeng/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ningmeng/js/芒果TV.js"},
 		
-		{"key":"ningmeng_py_cctv","name": "🌎CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ningmeng/py/py_cctv.py","spider":"./ysc/YSC.jar"},
+		{"key":"ningmeng_py_cctv","name": "🌎CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ningmeng/py/py_cctv.py","jar":"./ysc/YSC.jar"},
 		{"key":"ningmeng_py_cctv_jindian","name": "🌎央视经典","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ningmeng/py/py_cctv_jindian.py","spider":"./ysc/YSC.jar"},
-		{"key":"ningmeng_py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ningmeng/py/py_xigua.py","spider":"./ysc/YSC.jar"},
+		{"key":"ningmeng_py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ningmeng/py/py_xigua.py"},
 		
 		{"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./ningmeng.txt","jar":"./ysc/aliyun.jar"},
 		{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./ningmeng.txt"},
