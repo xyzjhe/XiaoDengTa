@@ -57,7 +57,7 @@
 		{"key":"儿童武术","name":"儿童武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/儿童武术.json"},
 		
 		{"key":"兴趣培养","name":"🖼︎兴趣培养","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/兴趣培养.json"},
-		//{"key":"py_cctv","name":"🌏央视节目","type":3,"api":"py_cctv","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Py/py_cctv.py"},
+		{"key":"py_cctv","name":"🌏央视节目","type":3,"api":"py_cctv","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Py/py_cctv.py"},
 		{"key":"央视经典","name":"🌏央视经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/央视经典.json"},
 		{"key":"益智动画","name":"🦖益智动画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/益智动画.json"},
 		{"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Bili/小学语文.json"},
