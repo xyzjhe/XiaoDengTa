@@ -1,5 +1,5 @@
 {
-    //"spider": "./custom_spider.jar",
+    "spider": "./custom_spider.jar",
     "rulefrom": "规则来自道长仓库 https://gitcode.net/qq_32394351/dr_py",
     "rulepack": "香雅情整理打包(2023-04-16 19:26:25)",
     "sites": [
