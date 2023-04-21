@@ -1,6 +1,18 @@
 {
 	"urls": [
 		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api.json",
+			"name": "柠檬主线路"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_child.json",
+			"name": "柠檬少儿教育"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_aged.json",
+			"name": "柠檬老年人仓"
+		},
+		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox.json",
 			"name": "柠檬主线路"
 		},
@@ -34,18 +46,7 @@
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/api.json",
 			"name": "肥猫"
 		},
-		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api.json",
-			"name": "柠檬api"
-		},
-		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_child.json",
-			"name": "柠檬api_child"
-		},
-		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_aged.json",
-			"name": "柠檬api_aged"
-		},
+
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 			"name": "yoursmile"

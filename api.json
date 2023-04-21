@@ -41,9 +41,9 @@
 		{"key":"lemon_bili","name":"🧑🏻‍bilibili影视[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/bilibili影视.js"},
 		{"key":"lemon_mg","name":"🥭芒果[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/芒果TV.js"},
 		
-		{"key":"lemon_py_cctv","name": "🌎CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_cctv.py"},
-		{"key":"lemon_py_cctv_jindian","name": "🌎央视经典","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_cctv_jindian.py"},
-		{"key":"lemon_py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_xigua.py"},
+		{"key":"lemon_py_cctv","name": "🌎CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_cctv.py","jar":"./XYQTVBox/drpy_js/custom_spider.jar"},
+		{"key":"lemon_py_cctv_jindian","name": "🌎央视经典","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_cctv_jindian.py","jar":"./XYQTVBox/drpy_js/custom_spider.jar"},
+		{"key":"lemon_py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_xigua.py","jar":"./XYQTVBox/drpy_js/custom_spider.jar"},
 		
 		{"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./lemon.txt","jar":"./ysc/aliyun.jar"},
 		{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
@@ -75,7 +75,7 @@
 		//{"key":"小灯塔国学","name":"💡小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/小灯塔国学.json"},
 		//{"key":"小灯塔人文","name":"💡小灯塔人文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/小灯塔人文.json"},
 		//{"key":"py_cctv","name":"🌏央视节目","type":3,"api":"py_cctv","searchable":0,"quickSearch":1,"filterable":1,"ext":"./Py/py_cctv.py"},
-		{"key":"央视经典","name":"央视经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/央视经典.json"},
+
 		//{"key":"益智动画","name":"🦖益智动画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/益智动画.json"},
 		//{"key":"小学语文","name":"📗小学语文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/小学语文.json"},
 		//{"key":"小学数学","name":"📐小学数学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/小学数学.json"},
