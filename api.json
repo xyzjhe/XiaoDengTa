@@ -33,8 +33,8 @@
 	],
 	"sites":[
 		//    searchable:0,//是否启用全局搜索,    quickSearch:0,//是否启用快速搜索,    filterable:0,//是否启用筛选,
-		{"key": "lemon_db","name": "🔍豆瓣荐片[js]","type": 3,"api": "./XYQTVBox/drpy_js/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext": "./XYQTVBox/drpy_js/js/豆瓣荐片.js"},
-		{"key": "lemon_db2","name": "🔍豆瓣荐片2[js]","type": 3,"api": "./ysc/js/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext": "./ysc/js/douban.js"},
+		{"key": "lemon_db","name": "🔍豆瓣荐片[js]","type": 3,"api": "./XYQTVBox/drpy_js/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext": "./XYQTVBox/drpy_js/js/drpy.js"},
+		{"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"./ysc/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./ysc/js/douban.js"},
 		{"key":"lemon_aqy","name":"🥝爱奇艺[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/爱奇艺.js"},
 		{"key":"lemon_yk","name":"👑优酷[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/优酷视频.js"},
 		{"key":"lemon_tx","name":"🐧腾讯[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/腾讯视频.js"},
