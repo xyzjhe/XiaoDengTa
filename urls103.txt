@@ -5,10 +5,6 @@
 			"name": "柠檬老年人仓"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/2583jie/tvbox_ln.json",
-			"name": "柠檬老年人仓2
-		},
-		{
 			"url": "clan://localhost/tvbox/2583jie/tvbox_ln.json",
 			"name": "柠檬老年人仓本地"
 		}
