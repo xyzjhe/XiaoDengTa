@@ -2,11 +2,11 @@
 	"urls": [
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/XYQTVBox.json",
-			"name": "香雅情",
+			"name": "香雅情"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/drpy_js/drjs_config.json",
-			"name": "道长JS",
+			"name": "道长JS"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/ysc/ysc.json",
@@ -28,7 +28,6 @@
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/api.json",
 			"name": "肥猫"
 		},
-
 		{
 			"url": "http://miaotvs.cn/meow",
 			"name": "喵影视"

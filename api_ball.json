@@ -35,7 +35,6 @@
 		//    searchable:0,//是否启用全局搜索,    quickSearch:0,//是否启用快速搜索,    filterable:0,//是否启用筛选,
 		{"key": "csp_XYQBiu_88看球","name":"88看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQTVBox/XYQBiu/88看球.json"},
 		{"key":"drpy_js_88看球","name":"88看球[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/88看球.js"},
-		{"key":"drpy_js_188看","name":"188看[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/188看.js"},
 		{"key":"drpy_js_310直播","name":"310直播[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/310直播.js"},
 		{"key":"drpy_js_JRS看球网","name":"JRS看球网[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/JRS看球网.js"},
 		{"key":"drpy_js_JRKAN直播","name":"JRKAN直播[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/JRKAN直播.js"},
@@ -43,7 +42,8 @@
 		{"key":"drpy_js_JRS看球网","name":"JRS看球网[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/JRS看球网.js"},
 		{"key":"drpy_js_JRS看直播","name":"JRS看直播[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/JRS看直播.js"},
 		{"key":"drpy_js_学生球赛录像[js1]","name":"学生球赛录像[js1][js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/学生球赛录像[js1].js"},
-		{"key": "csp_XYQHiker_歪片星球","name":"歪片星球[H]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQTVBox/XYQHiker/歪片星球.json"},
+		{"key": "csp_XYQBiu_抓饭直播","name": "🍥抓饭直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQTVBox/XYQBiu/抓饭直播.json"},
+		{"key": "csp_XYQHiker_无插件直播","name": "🏀无插件直播✈️[H]","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQTVBox/XYQHiker/无插件直播.json"},
 		
 		
 		
