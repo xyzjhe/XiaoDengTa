@@ -6,35 +6,35 @@
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_child.json",
-			"name": "柠檬少儿教育"
+			"name": "柠檬少儿教育线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_aged.json",
-			"name": "柠檬老年人仓"
+			"name": "柠檬老年人线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_off.json",
-			"name": "柠檬官源仓"
+			"name": "柠檬官源线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_book.json",
-			"name": "柠檬听书仓"
+			"name": "柠檬听书线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_ball.json",
-			"name": "柠檬看球仓"
+			"name": "柠檬看球线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_zb.json",
-			"name": "柠檬直播仓"
+			"name": "柠檬直播线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_com.json",
-			"name": "柠檬喜剧仓"
+			"name": "柠檬喜剧线路"
 		},
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_music.json",
-			"name": "柠檬音乐仓"
+			"name": "柠檬音乐线路"
 		}
 
 	]
