@@ -33,19 +33,7 @@
 	],
 	"sites":[
 		//    searchable:0,//是否启用全局搜索,    quickSearch:0,//是否启用快速搜索,    filterable:0,//是否启用筛选,
-		{"key":"drpy_js_喜马拉雅","name":"喜马拉雅[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/喜马拉雅.js"},
-		{"key":"drpy_js_蜻蜓FM","name":"蜻蜓FM[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/蜻蜓FM.js"},
-		{"key": "csp_XYQHiker_有声小说吧","name":"有声小说吧[H]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQTVBox/XYQHiker/有声小说吧.json"},
-		{"key":"drpy_js_有声听书网","name":"有声听书网[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/有声听书网.js"},
-		{"key":"drpy_js_有声小说吧","name":"有声小说吧[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/有声小说吧.js"},
-		{"key":"drpy_js_74听书","name":"74听书[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/74听书.js"},
-		{"key":"drpy_js_i275听书","name":"i275听书[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/i275听书.js"},
-		{"key":"drpy_js_博看听书","name":"博看听书[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/博看听书.js"},
-		{"key":"drpy_js_海洋听书","name":"海洋听书[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/海洋听书.js"},
-		{"key":"drpy_js_幻听网听书","name":"幻听网听书[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/幻听网听书.js"},
-		{"key":"drpy_js_六月听书","name":"六月听书[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/六月听书.js"},
-		{"key":"drpy_js_听书网","name":"听书网[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/听书网.js"},
-		{"key":"drpy_js_评书随身听","name":"评书随身听[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/评书随身听.js"},
+		{"key":"drpy_js_小品网","name":"小品网[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/小品网.js"},
 		{"key":"drpy_js_相声随身听","name":"相声随身听[js]","type":3,"api":"./XYQTVBox/drpy_js/libs/drpy2.min.js","ext":"./XYQTVBox/drpy_js/js/相声随身听.js"},
 		
 		

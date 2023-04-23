@@ -29,6 +29,14 @@
 			"name": "柠檬直播(本地)"
 		},
 		{
+			"url": "clan://localhost/tvbox/api_com.json",
+			"name": "柠檬喜剧(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/api_music.json",
+			"name": "柠檬音乐(本地)"
+		},
+		{
 			"url": "clan://localhost/tvbox/XYQTVBox/XYQTVBox.json",
 			"name": "香雅情(本地)"
 		},

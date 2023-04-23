@@ -27,6 +27,14 @@
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_zb.json",
 			"name": "柠檬直播仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_com.json",
+			"name": "柠檬喜剧仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_music.json",
+			"name": "柠檬音乐仓"
 		}
 
 	]
