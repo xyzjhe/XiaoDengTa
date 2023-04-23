@@ -2,15 +2,15 @@
 	"storeHouse": [
 		{
 			"sourceName": "柠檬综合仓",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls101.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main/urls101.txt"
 		},
 		{
 			"sourceName": "柠檬少儿教育仓",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls102.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main/urls102.txt"
 		},
 		{
 			"sourceName": "柠檬老年人仓",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls103.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main/urls103.txt"
 		},
 		{
 			"sourceName": "柠檬本地仓库",
@@ -18,7 +18,7 @@
 		},
 		{
 			"sourceName": "柠檬其它仓库",
-			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main//urls104.txt"
+			"sourceUrl": "https://framagit.org/itvit/tvbox/-/raw/main/urls104.txt"
 		}
 	]
 }

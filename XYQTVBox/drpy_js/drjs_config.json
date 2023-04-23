@@ -35,7 +35,7 @@
             "searchable": 1,
             "filterable": 1,
             "switchable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "易搜",
@@ -45,7 +45,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "盘搜",
@@ -55,7 +55,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "UP云搜",
@@ -65,7 +65,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "找资源",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt$$$yingshi$$$abcd1234"
+            "ext": "../alitoken.txt$$$yingshi$$$abcd1234"
         },
         {
             "key": "push_agent",
@@ -85,7 +85,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "drpy_js_奇珍异兽",
@@ -2095,19 +2095,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/子子影视.js"
-        }
-    ],
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"
-                    ]
-                }
-            ]
         }
     ],
     "rules": [

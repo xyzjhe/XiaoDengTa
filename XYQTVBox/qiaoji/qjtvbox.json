@@ -233,7 +233,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "AliPanSou",
@@ -243,7 +243,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "UPanSo",
@@ -253,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "FindZY",
@@ -263,7 +263,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "push_agent",
@@ -273,7 +273,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "clan://XYQTVBox/alitoken.txt"
+            "ext": "../alitoken.txt"
         },
         {
             "key": "Music_spider",

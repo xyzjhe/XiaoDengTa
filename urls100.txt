@@ -2,35 +2,43 @@
 	"urls": [
 		{
 			"url": "clan://localhost/tvbox/api.json",
-			"name": "柠檬主线路本地"
+			"name": "柠檬主线路(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/api_child.json",
-			"name": "柠檬少儿教育本地"
+			"name": "柠檬少儿教育(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/api_aged.json",
-			"name": "柠檬老年人仓本地"
+			"name": "柠檬老年人仓(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/XYQTVBox/XYQTVBox.json",
-			"name": "香雅情本地"
+			"name": "香雅情(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/XYQTVBox/drpy_js/drjs_config.json",
-			"name": "道长JS线路(本地)"
+			"name": "道长(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/XYQTVBox/Yoursmile/XC.json",
+			"name": "Yoursmile(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/XYQTVBox/qiaoji/qjtvbox.json",
+			"name": "巧技(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/fantaiying/api.json",
-			"name": "饭太硬本地"
+			"name": "饭太硬(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/feimao/api.json",
-			"name": "肥猫本地"
+			"name": "肥猫(本地)"
 		},
 		{
 			"url": "clan://localhost/tvbox/ysc/ysc.json",
-			"name": "运输车本地"
+			"name": "运输车(本地)"
 		}
 	]
 }
