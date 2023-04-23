@@ -13,6 +13,22 @@
 			"name": "柠檬老年人仓(本地)"
 		},
 		{
+			"url": "clan://localhost/tvbox/api_off.json",
+			"name": "柠檬官源(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/api_book.json",
+			"name": "柠檬听书(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/api_ball.json",
+			"name": "柠檬看球(本地)"
+		},
+		{
+			"url": "clan://localhost/tvbox/api_zb.json",
+			"name": "柠檬直播(本地)"
+		},
+		{
 			"url": "clan://localhost/tvbox/XYQTVBox/XYQTVBox.json",
 			"name": "香雅情(本地)"
 		},

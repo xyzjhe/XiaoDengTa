@@ -11,6 +11,22 @@
 		{
 			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_aged.json",
 			"name": "柠檬老年人仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_off.json",
+			"name": "柠檬官源仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_book.json",
+			"name": "柠檬听书仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_ball.json",
+			"name": "柠檬看球仓"
+		},
+		{
+			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_zb.json",
+			"name": "柠檬直播仓"
 		}
 
 	]
