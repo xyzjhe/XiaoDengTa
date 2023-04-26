@@ -2097,6 +2097,19 @@
             "ext": "./js/子子影视.js"
         }
     ],
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"
+                    ]
+                }
+            ]
+        }
+    ],
     "rules": [
         {
             "host": "www.djuu.com",
