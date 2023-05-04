@@ -1,7 +1,7 @@
 {
     "spider": "./custom_spider.jar",
-    "rulefrom": "规则来自道长仓库 https://gitcode.net/qq_32394351/dr_py",
-    "rulepack": "香雅情整理打包(2023-04-16 19:26:25)",
+    "rulefrom": "规则来自道长仓库 https://github.com/hjdhnx/dr_py",
+    "rulepack": "香雅情整理打包(2023-04-28 11:41:03)",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -235,6 +235,13 @@
             "ext": "./js/555影视[飞].js"
         },
         {
+            "key": "drpy_js_69美剧[V2]",
+            "name": "69美剧[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/69美剧[V2].js"
+        },
+        {
             "key": "drpy_js_69美剧",
             "name": "69美剧[js]",
             "type": 3,
@@ -361,13 +368,6 @@
             "ext": "./js/HDmoli.js"
         },
         {
-            "key": "drpy_js_HG影院[V2]",
-            "name": "HG影院[V2][js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/HG影院[V2].js"
-        },
-        {
             "key": "drpy_js_IMAX影视",
             "name": "IMAX影视[js]",
             "type": 3,
@@ -487,13 +487,6 @@
             "ext": "./js/RP影视.js"
         },
         {
-            "key": "drpy_js_TV蜂",
-            "name": "TV蜂[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/TV蜂.js"
-        },
-        {
             "key": "drpy_js_UM电影",
             "name": "UM电影[js]",
             "type": 3,
@@ -527,13 +520,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/drpy.js"
-        },
-        {
-            "key": "drpy_js_fositv",
-            "name": "fositv[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/fositv.js"
         },
         {
             "key": "drpy_js_gaze",
@@ -585,25 +571,11 @@
             "ext": "./js/vidhub.js"
         },
         {
-            "key": "drpy_js_vip影院",
-            "name": "vip影院[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/vip影院.js"
-        },
-        {
             "key": "drpy_js_voflix",
             "name": "voflix[js]",
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/voflix.js"
-        },
-        {
-            "key": "drpy_js_zxzjmtv",
-            "name": "zxzjmtv[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/zxzjmtv.js"
         },
         {
             "key": "drpy_js_爱车MV",
@@ -718,6 +690,13 @@
             "ext": "./js/博看听书.js"
         },
         {
+            "key": "drpy_js_布雷蓝光",
+            "name": "布雷蓝光[js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/布雷蓝光.js"
+        },
+        {
             "key": "drpy_js_菜狗",
             "name": "菜狗[js]",
             "type": 3,
@@ -828,13 +807,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/斗鱼直播.js"
-        },
-        {
-            "key": "drpy_js_豆巴影视",
-            "name": "豆巴影视[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/豆巴影视.js"
         },
         {
             "key": "drpy_js_豆芽影院",
@@ -991,13 +963,6 @@
             "ext": "./js/幻听网听书.js"
         },
         {
-            "key": "drpy_js_回响影视",
-            "name": "回响影视[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/回响影视.js"
-        },
-        {
             "key": "drpy_js_荐片",
             "name": "荐片[js]",
             "type": 3,
@@ -1017,20 +982,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/九酷.js"
-        },
-        {
-            "key": "drpy_js_剧白白",
-            "name": "剧白白[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/剧白白.js"
-        },
-        {
-            "key": "drpy_js_剧荒TV",
-            "name": "剧荒TV[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/剧荒TV.js"
         },
         {
             "key": "drpy_js_剧迷",
@@ -1087,13 +1038,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/看一看影视.js"
-        },
-        {
-            "key": "drpy_js_库马伊",
-            "name": "库马伊[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/库马伊.js"
         },
         {
             "key": "drpy_js_酷6网",
@@ -1192,13 +1136,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/利丽娅电影.js"
-        },
-        {
-            "key": "drpy_js_两个BT",
-            "name": "两个BT[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/两个BT.js"
         },
         {
             "key": "drpy_js_量子影视",
@@ -1313,13 +1250,6 @@
             "ext": "./js/免费看.js"
         },
         {
-            "key": "drpy_js_喵喵",
-            "name": "喵喵[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/喵喵.js"
-        },
-        {
             "key": "drpy_js_莫扎兔",
             "name": "莫扎兔[js]",
             "type": 3,
@@ -1353,13 +1283,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/农民影视.js"
-        },
-        {
-            "key": "drpy_js_诺讯影视",
-            "name": "诺讯影视[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/诺讯影视.js"
         },
         {
             "key": "drpy_js_欧帝影院",
@@ -1509,13 +1432,6 @@
             "ext": "./js/去看吧.js"
         },
         {
-            "key": "drpy_js_趣享星视",
-            "name": "趣享星视[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/趣享星视.js"
-        },
-        {
             "key": "drpy_js_热播库",
             "name": "热播库[js]",
             "type": 3,
@@ -1584,13 +1500,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/双十电影.js"
-        },
-        {
-            "key": "drpy_js_私人影院",
-            "name": "私人影院[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/私人影院.js"
         },
         {
             "key": "drpy_js_思古影视",
@@ -1747,13 +1656,6 @@
             "ext": "./js/无名小站.js"
         },
         {
-            "key": "drpy_js_午夜影视",
-            "name": "午夜影视[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/午夜影视.js"
-        },
-        {
             "key": "drpy_js_稀饭影视",
             "name": "稀饭影视[js]",
             "type": 3,
@@ -1796,13 +1698,6 @@
             "ext": "./js/小白菜电影.js"
         },
         {
-            "key": "drpy_js_小宝影视",
-            "name": "小宝影视[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/小宝影视.js"
-        },
-        {
             "key": "drpy_js_小宝影院[飞]",
             "name": "小宝影院[飞][js]",
             "type": 3,
@@ -1836,13 +1731,6 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/小强迷.js"
-        },
-        {
-            "key": "drpy_js_新安影院",
-            "name": "新安影院[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/新安影院.js"
         },
         {
             "key": "drpy_js_新片场",
@@ -1915,25 +1803,11 @@
             "ext": "./js/夜空.js"
         },
         {
-            "key": "drpy_js_夜空",
-            "name": "夜空[js].old",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/夜空.js.old"
-        },
-        {
             "key": "drpy_js_伊人追剧",
             "name": "伊人追剧[js]",
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/伊人追剧.js"
-        },
-        {
-            "key": "drpy_js_伊雪湾",
-            "name": "伊雪湾[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/伊雪湾.js"
         },
         {
             "key": "drpy_js_怡萱动漫",

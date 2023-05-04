@@ -70,5 +70,5 @@
     "分析MacPlayer": "0",
     "是否开启手动嗅探": "1",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos#stariverpan.com:9096/ipfs#/ftn_handler/#x-oss-signature",
-    "手动嗅探视频链接过滤词": "ffzy-#.html#?url=http#&url=http#php?v=http"
+    "手动嗅探视频链接过滤词": "ffzy-#.html#?url=http#php?v=http"
 }
