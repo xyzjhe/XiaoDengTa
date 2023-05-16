@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/api_aged.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/api_aged.json",
 			"name": "柠檬老年人仓"
 		},
 		{

@@ -1,31 +1,31 @@
 {
 	"urls": [
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/XYQTVBox.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/XYQTVBox/XYQTVBox.json",
 			"name": "香雅情"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/drpy_js/drjs_config.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/XYQTVBox/drpy_js/drjs_config.json",
 			"name": "道长JS"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/ysc/ysc.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/ysc/ysc.json",
 			"name": "运输车"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/Yoursmile/XC.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/XYQTVBox/Yoursmile/XC.json",
 			"name": "Yoursmile"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/XYQTVBox/qiaoji/qjtvbox.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/XYQTVBox/qiaoji/qjtvbox.json",
 			"name": "巧技"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/fantaiying/api.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/fantaiying/api.json",
 			"name": "饭太硬"
 		},
 		{
-			"url": "https://framagit.org/itvit/tvbox/-/raw/main/feimao/api.json",
+			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/feimao/api.json",
 			"name": "肥猫"
 		},
 		{
