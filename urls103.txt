@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url": "https://raw.githubusercontent.com/jack2583/tvbox/main/api_aged.json",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/jack2583/tvbox/main/api_aged.json",
 			"name": "柠檬老年人仓"
 		},
 		{
