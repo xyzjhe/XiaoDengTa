@@ -1,0 +1,1 @@
+wget -t 10 -c -a log.json -U "okhttp/3.15" -O "tvfan/yyds/PanSearch/token.txt" "http://127.0.0.1:9978/file/tvfan/token.txt"

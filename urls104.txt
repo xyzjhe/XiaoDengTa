@@ -29,6 +29,10 @@
 			"name": "肥猫"
 		},
 		{
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/jack2583/tvbox/main/yyds/api.json",
+			"name": "yyds"
+		},
+		{
 			"url": "http://miaotvs.cn/meow",
 			"name": "喵影视"
 		}
