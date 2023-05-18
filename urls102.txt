@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url": "https://ghproxy.com/https://raw.githubusercontent.com/jack2583/tvbox/main/api_child.json",
+			"url": "https://cdn.staticaly.com/gh/jack2583/tvbox/main/api_child.json",
 			"name": "柠檬少儿教育"
 		},
 		{
