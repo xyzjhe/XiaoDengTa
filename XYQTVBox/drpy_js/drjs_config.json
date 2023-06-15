@@ -1,7 +1,7 @@
 {
     "spider": "./custom_spider.jar",
     "rulefrom": "规则来自道长仓库 https://github.com/hjdhnx/dr_py",
-    "rulepack": "香雅情整理打包(2023-05-25 10:31:29)",
+    "rulepack": "香雅情整理打包(2023-06-03 10:16:35)",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
@@ -56,6 +56,15 @@
             "filterable": 0,
             "switchable": 0,
             "ext": ".../lemon.txt"
+        },
+        {
+          "key": "盘搜索",
+          "name": "盘搜索",
+          "type": 3,
+          "api": "csp_PanSearch",
+          "searchable": 1,
+          "changeable": 0,
+          "ext": ".../lemon.txt"
         },
         {
             "key": "UP云搜",
@@ -536,13 +545,6 @@
             "ext": "./js/ddys.js"
         },
         {
-            "key": "drpy_js_drpy",
-            "name": "drpy[js]",
-            "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./js/drpy.js"
-        },
-        {
             "key": "drpy_js_gaze",
             "name": "gaze[js]",
             "type": 3,
@@ -604,6 +606,13 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/爱弹幕.js"
+        },
+        {
+            "key": "drpy_js_爱迪[V2]",
+            "name": "爱迪[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/爱迪[V2].js"
         },
         {
             "key": "drpy_js_爱迪影视",
@@ -858,6 +867,13 @@
             "ext": "./js/短视频.js"
         },
         {
+            "key": "drpy_js_多米[V2]",
+            "name": "多米[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/多米[V2].js"
+        },
+        {
             "key": "drpy_js_多瑙影视",
             "name": "多瑙影视[js]",
             "type": 3,
@@ -898,6 +914,13 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/飞兔影视.js"
+        },
+        {
+            "key": "drpy_js_飞云[V2]",
+            "name": "飞云[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/飞云[V2].js"
         },
         {
             "key": "drpy_js_浮生半日",
@@ -1292,6 +1315,13 @@
             "ext": "./js/萌蛋蛋[V2].js"
         },
         {
+            "key": "drpy_js_迷你库[V2]",
+            "name": "迷你库[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/迷你库[V2].js"
+        },
+        {
             "key": "drpy_js_米爱影视",
             "name": "米爱影视[js]",
             "type": 3,
@@ -1507,6 +1537,13 @@
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/人人影视.js"
+        },
+        {
+            "key": "drpy_js_如意[V2]",
+            "name": "如意[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/如意[V2].js"
         },
         {
             "key": "drpy_js_骚火电影",
@@ -1852,6 +1889,13 @@
             "ext": "./js/鸭奈飞.js"
         },
         {
+            "key": "drpy_js_鸭鸭[V2]",
+            "name": "鸭鸭[V2][js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/鸭鸭[V2].js"
+        },
+        {
             "key": "drpy_js_夜空",
             "name": "夜空[js]",
             "type": 3,
@@ -1915,11 +1959,25 @@
             "ext": "./js/影渣渣.js"
         },
         {
+            "key": "drpy_js_映迷影院",
+            "name": "映迷影院[js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/映迷影院.js"
+        },
+        {
             "key": "drpy_js_优酷",
             "name": "优酷[js]",
             "type": 3,
             "api": "./libs/drpy2.min.js",
             "ext": "./js/优酷.js"
+        },
+        {
+            "key": "drpy_js_有声绘本网",
+            "name": "有声绘本网[js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/有声绘本网.js"
         },
         {
             "key": "drpy_js_有声小说吧",
