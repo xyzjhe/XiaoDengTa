@@ -1,5 +1,6 @@
 {
 	"urls": [
+	   //香雅情:https://www.123pan.com/s/alSeVv-lGO0A.html
 		{
 			"url": "https://ghproxy.com/https://raw.githubusercontent.com/jack2583/tvbox/main/XYQTVBox/XYQTVBox.json",
 			"name": "香雅情"
