@@ -2,8 +2,8 @@
 	//壁纸链接，自动替换
 	"wallpaper": "https://www.dmoe.cc/random.php",
 	//通用jar包
-	"spider": "./XYQTVBox/custom_spider.jar",
-	"lives":[{"name":"live","type":0,"url":"aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ=","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	"spider": "./jar/custom_spider.jar",
+	"lives":[{"name":"live","type":0,"url":"https://agit.ai/laozou/mtv/raw/branch/master/cctv0801.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 	"sites":[
 		//    searchable:0,//是否启用全局搜索,    quickSearch:0,//是否启用快速搜索,    filterable:0,//是否启用筛选,
 		{"key":"幼小衔接","name":"幼小衔接","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lemon/bili/幼小衔接.json"},
