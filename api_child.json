@@ -76,37 +76,36 @@
                 "filterable": 0,
                 "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/优酷.js"
                },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "芒果JS",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/百忙无果.js"
-    },
-    
-    {
-      "key": "drpy_js_搜狐",
-      "name": "搜狐JS",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/菜狗.js"
-    }, 
-     {
-      "key": "drpy_js_网易",
-      "name": "网易公版影像JS",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"
-    },    
+               {
+                "key": "drpy_js_百忙无果",
+                "name": "芒果JS",
+                "type": 3,
+                "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 0,
+                "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/百忙无果.js"
+               },
+	       {
+                "key": "drpy_js_搜狐",
+                "name": "搜狐JS",
+                "type": 3,
+                "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 0,
+                "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/菜狗.js"
+               }, 
+               {
+                "key": "drpy_js_网易",
+                "name": "网易公版影像JS",
+                "type": 3,
+                "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 0,
+                "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"
+               },    
 
 
 	{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
