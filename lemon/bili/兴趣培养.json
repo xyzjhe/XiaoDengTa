@@ -1,5 +1,6 @@
 ﻿{
 	"cookie": "https://agit.ai/laozou/mtv/raw/branch/master/bilicookie.txt",
+	 "classes":[
 		{"type_name": "☯️太极拳","type_id": "太极拳"},
 		{"type_name": "五子棋","type_id": "少儿五子棋"},
 		{"type_name": "象棋","type_id": "少儿象棋"},
