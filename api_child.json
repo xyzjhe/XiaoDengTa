@@ -46,33 +46,86 @@
 		
 		{"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 		
-		{"key": "lemon_db","name": "🔍豆瓣荐片[js]","type": 3,"api": "./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext": "./lemon/js/豆瓣荐片.js"},
-		{"key":"lemon_aqy","name":"🥝爱奇艺[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/爱奇艺.js"},
-		{"key":"lemon_yk","name":"👑优酷[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/优酷视频.js"},
-		{"key":"lemon_tx","name":"🐧腾讯[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/腾讯视频.js"},
-		{"key":"lemon_sg","name":"🐼搜狗[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/搜狗.js"},
-		{"key":"lemon_bili","name":"🧑🏻‍bilibili影视[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/bilibili影视.js"},
-		{"key":"lemon_mg","name":"🥭芒果[js]","type":3,"api":"./lemon/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./lemon/js/芒果TV.js"},
+		{
+                 "key": "drpy_js_腾云驾雾",
+                 "name": "腾讯JS",
+                 "type": 3,
+                 "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+                 "searchable": 1,
+                 "quickSearch": 1,
+                 "filterable": 0,
+                 "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/腾云驾雾.js"
+                },
+                {
+                 "key": "drpy_js_奇珍异兽",
+                 "name": "爱奇艺JS",
+                 "type": 3,
+                 "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+                 "searchable": 1,
+                 "quickSearch": 1,
+                 "filterable": 0,
+                 "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/奇珍异兽.js"
+                },
+               {
+                "key": "drpy_js_优酷",
+                "name": "优酷JS",
+                "type": 3,
+                "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 0,
+                "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/优酷.js"
+               },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒果JS",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/百忙无果.js"
+    },
+    
+    {
+      "key": "drpy_js_搜狐",
+      "name": "搜狐JS",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/菜狗.js"
+    }, 
+     {
+      "key": "drpy_js_网易",
+      "name": "网易公版影像JS",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/网易公版影像.js"
+    },    
+
+
+	{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+        {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+        {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+        
+        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
+        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘资源分享.json"},
+        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我的小站.json"},
+        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/阿里云盘网.json"},
+        {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞.json"},
+        {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土拨鼠搜索.json"},
+        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DOVX搜索.json"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json"},
+        {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享.json"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"}
 		
-		{"key":"py_cctv","name": "🌎CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_cctv.py"},
-		{"key":"py_jindian","name": "🌎央视经典","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_cctv_jindian.py"},
-		{"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lemon/py/py_xigua.py"},
 		
-		
-		{"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"ext": "./lemon.txt","jar":"./ysc/aliyun.jar"},
-		{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		{"key":"csp_AliPS","name":"🐼喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lemon.txt"},
-		
-		{"key":"小纸条","name":"小纸条2","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"switchable":0,"ext":"./lemon.txt","jar":"./XYQTVBoxdrpy_js/custom_spider.jar"},
-		{"key":"易搜","name":"易搜2","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":"./lemon.txt","jar":"./XYQTVBoxdrpy_js/custom_spider.jar"},
-		{"key":"盘搜","name":"盘搜2","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"switchable":0,"ext":"./lemon.txt","jar":"./XYQTVBoxdrpy_js/custom_spider.jar"},
-		{"key":"UP云搜","name":"UP云搜2","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"switchable":0,"ext":"./lemon.txt","jar":"./XYQTVBoxdrpy_js/custom_spider.jar"},
-		{"key":"找资源","name":"找资源2","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"switchable":0,"ext":"./lemon.txt","jar":"./XYQTVBoxdrpy_js/custom_spider.jar"},
-		{"key":"push_agent","name":"推送2","type":3,"api":"csp_Push","searchable":1,"filterable":0,"switchable":0,"ext":"./lemon.txt","jar":"./XYQTVBoxdrpy_js/custom_spider.jar"}
 		
 		
 		],
